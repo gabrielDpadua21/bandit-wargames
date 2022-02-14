@@ -13,7 +13,7 @@ user: bandit0
 bash connect.sh
 ```
 
-OBS: all the password are encrypted and not will working
+OBS: all the password are encrypted and will not working
 
 ---
 
